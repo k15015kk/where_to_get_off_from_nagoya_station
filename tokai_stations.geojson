@@ -1,0 +1,4800 @@
+{
+    "type": "FeatureCollection",
+    "name": "tokai_stations",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::6668"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "1",
+                "N05_002": "東海道新幹線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "岐阜羽島",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.685755,
+                        35.31574
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "1",
+                "N05_002": "東海道新幹線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "名古屋",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.881031,
+                        35.17048
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "1",
+                "N05_002": "東海道新幹線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "三河安城",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.060296,
+                        34.969036
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "1",
+                "N05_002": "東海道新幹線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "豊橋",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.38115,
+                        34.76289
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "中央線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "中津川",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.502808,
+                        35.500146
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "中央線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "坂下",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.531115,
+                        35.574249
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "中央線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "瑞浪",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.251915,
+                        35.369115
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "中央線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "武並",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.354115,
+                        35.43793
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "中央線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "高蔵寺",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.043255,
+                        35.2644
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "中央線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "春日井",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.985083,
+                        35.243014
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "中央線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "釜戸",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.30523,
+                        35.411235
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "中央線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "神領",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.010465,
+                        35.256595
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "中央線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "落合川",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.530011,
+                        35.525212
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "中央線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "定光寺",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.080945,
+                        35.27797
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "中央線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "多治見",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.120116,
+                        35.334743
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "中央線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "古虎渓",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.101809,
+                        35.303836
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "中央線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "美乃坂本",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.450355,
+                        35.479255
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "中央線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "勝川",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.95646,
+                        35.2299
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "中央線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "大曽根",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.93718,
+                        35.18947
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "中央線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "名古屋",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.881731,
+                        35.171256
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "中央線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "千種",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.931095,
+                        35.170925
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "中央線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "金山",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.90085,
+                        35.143295
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "中央線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "鶴舞",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.918175,
+                        35.156995
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "中央線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "新守山",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.950372,
+                        35.206256
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "中央線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "恵那",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.407795,
+                        35.45509
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "中央線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "土岐市",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.182166,
+                        35.359762
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "太多線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "多治見",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.120116,
+                        35.334743
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "太多線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "美濃太田",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.01957,
+                        35.445608
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "太多線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "姫",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.072115,
+                        35.382
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "太多線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "下切",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.063715,
+                        35.393735
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "太多線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "根本",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.090145,
+                        35.36147
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "太多線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "美濃川合",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.045342,
+                        35.444157
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "太多線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "小泉",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.10056,
+                        35.349155
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "太多線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "可児",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.05535,
+                        35.42293
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "東海道線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "大府",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.961805,
+                        35.008695
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "東海道線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "刈谷",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.00971,
+                        34.990805
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "東海道線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "東刈谷",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.043635,
+                        34.977355
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "東海道線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "共和",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.95458,
+                        35.035365
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "東海道線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "逢妻",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.99054,
+                        34.998235
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "東海道線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "西岐阜",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.72326,
+                        35.404525
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "東海道線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "荒尾",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.58336,
+                        35.373447
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "東海道線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "美濃赤坂",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.582195,
+                        35.386605
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "東海道線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "垂井",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.530962,
+                        35.36955
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "東海道線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "木曽川",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.781169,
+                        35.348071
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "東海道線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "関ヶ原",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.470515,
+                        35.363787
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "東海道線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "岐阜",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.756525,
+                        35.409537
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "東海道線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "穂積",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.693635,
+                        35.396265
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "東海道線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "大垣",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.618264,
+                        35.367093
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "東海道線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "稲沢",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.820963,
+                        35.253036
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "東海道線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "笠寺",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.926342,
+                        35.095104
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "東海道線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "熱田",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.910635,
+                        35.129912
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "東海道線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "枇杷島",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.86135,
+                        35.199656
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "東海道線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "大高",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.94028,
+                        35.0691
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "東海道線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "清洲",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.834519,
+                        35.22542
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "東海道線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "名古屋",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.882201,
+                        35.171313
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "東海道線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "尾頭橋",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.890984,
+                        35.147033
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "東海道線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "金山",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.900736,
+                        35.142837
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "東海道線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "豊橋",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.382542,
+                        34.762276
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "東海道線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "岡崎",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.15727,
+                        34.925345
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "東海道線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "愛知御津",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.316585,
+                        34.812585
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "東海道線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "三河塩津",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.201482,
+                        34.825406
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "東海道線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "西岡崎",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.123155,
+                        34.94662
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "東海道線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "三河三谷",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.248033,
+                        34.818511
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "東海道線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "三ヶ根",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.176669,
+                        34.836306
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "東海道線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "三河大塚",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.282897,
+                        34.815755
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "東海道線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "三河安城",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.061417,
+                        34.970284
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "東海道線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "安城",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.086348,
+                        34.960473
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "東海道線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "西小坂井",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.352692,
+                        34.797039
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "東海道線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "幸田",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.164468,
+                        34.859669
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "東海道線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "蒲郡",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.227382,
+                        34.822732
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "東海道線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "二川",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.43887,
+                        34.725795
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "東海道線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "野田新町",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.028161,
+                        34.983509
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "東海道線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "南大高",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.94872,
+                        35.054463
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "東海道線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "尾張一宮",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.79738,
+                        35.302
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "飯田線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "東栄",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.713855,
+                        35.02897
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "飯田線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "池場",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.704028,
+                        35.024407
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "飯田線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "柿平",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.644035,
+                        34.99053
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "飯田線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "三河槙原",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.620905,
+                        34.98855
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "飯田線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "三河川合",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.663982,
+                        35.001704
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "飯田線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "小坂井",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.363118,
+                        34.797628
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "飯田線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "豊橋",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.382542,
+                        34.762276
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "飯田線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "鳥居",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.551511,
+                        34.920831
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "飯田線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "下地",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.370647,
+                        34.780954
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "飯田線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "三河大野",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.603,
+                        34.95198
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "飯田線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "湯谷温泉",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.613045,
+                        34.97054
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "飯田線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "船町",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.374065,
+                        34.775735
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "飯田線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "野田城",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.47789,
+                        34.889295
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "飯田線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "東上",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.455185,
+                        34.876133
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "飯田線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "三河東郷",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.527315,
+                        34.91224
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "飯田線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "東新町",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.503047,
+                        34.90614
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "飯田線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "新城",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.493,
+                        34.90107
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "飯田線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "本長篠",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.576647,
+                        34.932626
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "飯田線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "三河一宮",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.414592,
+                        34.847929
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "飯田線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "茶臼山",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.514435,
+                        34.910355
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "飯田線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "牛久保",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.381715,
+                        34.80857
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "飯田線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "豊川",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.397232,
+                        34.822568
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "飯田線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "大海",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.54901,
+                        34.930155
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "飯田線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "長篠城",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.565093,
+                        34.925973
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "飯田線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "江島",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.441535,
+                        34.867845
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "飯田線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "長山",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.431399,
+                        34.86443
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "武豊線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "緒川",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.9719,
+                        34.981385
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "武豊線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "尾張森岡",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.970476,
+                        34.993859
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "武豊線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "大府",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.961805,
+                        35.008695
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "武豊線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "乙川",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.941346,
+                        34.903318
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "武豊線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "半田",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.93043,
+                        34.89411
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "武豊線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "亀崎",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.961105,
+                        34.91901
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "武豊線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "石浜",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.972905,
+                        34.967865
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "武豊線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "東浦",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.9707,
+                        34.949595
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "武豊線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "東成岩",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.923485,
+                        34.874285
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "武豊線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "武豊",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.921085,
+                        34.85327
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "高山線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "杉崎",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.16899,
+                        36.249895
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "高山線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "打保",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.181995,
+                        36.383935
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "高山線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "飛騨古川",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.189985,
+                        36.236625
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "高山線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "渚",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.287945,
+                        36.001455
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "高山線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "上枝",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.245835,
+                        36.180985
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "高山線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "飛騨一ノ宮",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.247666,
+                        36.088371
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "高山線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "久々野",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.276825,
+                        36.05234
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "高山線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "杉原",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.19247,
+                        36.415855
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "高山線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "飛騨国府",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.21577,
+                        36.21112
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "高山線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "高山",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.2514,
+                        36.14069
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "高山線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "飛騨細江",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.14563,
+                        36.261125
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "高山線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "坂上",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.140903,
+                        36.327548
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "高山線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "角川",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.113355,
+                        36.299905
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "高山線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "美濃太田",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.01957,
+                        35.445608
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "高山線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "坂祝",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.97681,
+                        35.426395
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "高山線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "禅昌寺",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.225224,
+                        35.849104
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "高山線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "下呂",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.239506,
+                        35.805952
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "高山線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "上麻生",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.118793,
+                        35.541348
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "高山線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "飛騨宮田",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.235553,
+                        35.928451
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "高山線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "中川辺",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.065128,
+                        35.48709
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "高山線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "飛騨萩原",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.213828,
+                        35.874606
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "高山線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "白川口",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.18484,
+                        35.579375
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "高山線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "古井",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.047533,
+                        35.457359
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "高山線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "飛騨金山",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.164385,
+                        35.662485
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "高山線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "下麻生",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.087119,
+                        35.514936
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "高山線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "飛騨小坂",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.25686,
+                        35.950785
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "高山線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "焼石",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.20061,
+                        35.725625
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "高山線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "上呂",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.204663,
+                        35.91096
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "高山線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "下油井",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.183115,
+                        35.63327
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "高山線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "鵜沼",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.94605,
+                        35.39756
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "高山線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "那加",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.835575,
+                        35.400535
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "高山線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "蘇原",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.87163,
+                        35.403266
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "高山線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "各務ケ原",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.90116,
+                        35.403889
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "高山線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "長森",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.802855,
+                        35.402085
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "高山線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "岐阜",
+                "layer": "岐阜県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.756525,
+                        35.409537
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "関西線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "名古屋",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.881445,
+                        35.170862
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "関西線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "八田",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.852308,
+                        35.148824
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "関西線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "朝日",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.658,
+                        35.033735
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "関西線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "富田浜",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.650095,
+                        34.99656
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "関西線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "富田",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.65316,
+                        35.00816
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "関西線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "蟹江",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.793475,
+                        35.14198
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "関西線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "弥富",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.725845,
+                        35.114065
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "関西線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "桑名",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.68374,
+                        35.06667
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "関西線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "永和",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.76441,
+                        35.13284
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "関西線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "長島",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.695655,
+                        35.09817
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "関西線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "春田",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.813385,
+                        35.14315
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "関西線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "南四日市",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.609702,
+                        34.941553
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "関西線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "加佐登",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.52999,
+                        34.89032
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "関西線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "四日市",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.629926,
+                        34.962219
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "関西線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "河曲",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.568035,
+                        34.897885
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "関西線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "河原田",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.59874,
+                        34.91099
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "関西線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "亀山",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.45052,
+                        34.850085
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "関西線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "井田川",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.492585,
+                        34.868265
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "5",
+                "N05_002": "愛知環状鉄道線",
+                "N05_003": "愛知環状鉄道",
+                "N05_011": "保見",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.134486,
+                        35.136662
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "5",
+                "N05_002": "愛知環状鉄道線",
+                "N05_003": "愛知環状鉄道",
+                "N05_011": "山口",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.101812,
+                        35.19786
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "5",
+                "N05_002": "愛知環状鉄道線",
+                "N05_003": "愛知環状鉄道",
+                "N05_011": "大門",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.154735,
+                        34.98258
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "5",
+                "N05_002": "愛知環状鉄道線",
+                "N05_003": "愛知環状鉄道",
+                "N05_011": "高蔵寺",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.04326,
+                        35.264255
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "5",
+                "N05_002": "愛知環状鉄道線",
+                "N05_003": "愛知環状鉄道",
+                "N05_011": "新上挙母",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.15118,
+                        35.07179
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "5",
+                "N05_002": "愛知環状鉄道線",
+                "N05_003": "愛知環状鉄道",
+                "N05_011": "末野原",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.1469,
+                        35.03954
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "5",
+                "N05_002": "愛知環状鉄道線",
+                "N05_003": "愛知環状鉄道",
+                "N05_011": "瀬戸市",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.078451,
+                        35.225956
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "5",
+                "N05_002": "愛知環状鉄道線",
+                "N05_003": "愛知環状鉄道",
+                "N05_011": "中水野",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.071967,
+                        35.250344
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "5",
+                "N05_002": "愛知環状鉄道線",
+                "N05_003": "愛知環状鉄道",
+                "N05_011": "篠原",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.12077,
+                        35.15473
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "5",
+                "N05_002": "愛知環状鉄道線",
+                "N05_003": "愛知環状鉄道",
+                "N05_011": "瀬戸口",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.08213,
+                        35.206565
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "5",
+                "N05_002": "愛知環状鉄道線",
+                "N05_003": "愛知環状鉄道",
+                "N05_011": "愛環梅坪",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.160915,
+                        35.105155
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "5",
+                "N05_002": "愛知環状鉄道線",
+                "N05_003": "愛知環状鉄道",
+                "N05_011": "四郷",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.162703,
+                        35.121906
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "5",
+                "N05_002": "愛知環状鉄道線",
+                "N05_003": "愛知環状鉄道",
+                "N05_011": "貝津",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.148055,
+                        35.13312
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "5",
+                "N05_002": "愛知環状鉄道線",
+                "N05_003": "愛知環状鉄道",
+                "N05_011": "六名",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.151885,
+                        34.941285
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "5",
+                "N05_002": "愛知環状鉄道線",
+                "N05_003": "愛知環状鉄道",
+                "N05_011": "八草",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.10715,
+                        35.17492
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "5",
+                "N05_002": "愛知環状鉄道線",
+                "N05_003": "愛知環状鉄道",
+                "N05_011": "岡崎",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.15727,
+                        34.925345
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "5",
+                "N05_002": "愛知環状鉄道線",
+                "N05_003": "愛知環状鉄道",
+                "N05_011": "中岡崎",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.15278,
+                        34.95634
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "5",
+                "N05_002": "愛知環状鉄道線",
+                "N05_003": "愛知環状鉄道",
+                "N05_011": "北岡崎",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.1577,
+                        34.972255
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "5",
+                "N05_002": "愛知環状鉄道線",
+                "N05_003": "愛知環状鉄道",
+                "N05_011": "北野桝塚",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.13949,
+                        34.996285
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "5",
+                "N05_002": "愛知環状鉄道線",
+                "N05_003": "愛知環状鉄道",
+                "N05_011": "三河上郷",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.13276,
+                        35.01241
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "5",
+                "N05_002": "愛知環状鉄道線",
+                "N05_003": "愛知環状鉄道",
+                "N05_011": "永覚",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.13898,
+                        35.02747
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "5",
+                "N05_002": "愛知環状鉄道線",
+                "N05_003": "愛知環状鉄道",
+                "N05_011": "三河豊田",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.150919,
+                        35.055438
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "5",
+                "N05_002": "愛知環状鉄道線",
+                "N05_003": "愛知環状鉄道",
+                "N05_011": "新豊田",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.153539,
+                        35.08786
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "名松線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "松阪",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.535796,
+                        34.576859
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "名松線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "上ノ庄",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.499325,
+                        34.598
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "名松線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "家城",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.319225,
+                        34.62585
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "名松線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "井関",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.412785,
+                        34.642575
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "名松線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "伊勢大井",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.385175,
+                        34.649995
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "名松線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "一志",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.436095,
+                        34.654895
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "名松線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "伊勢奥津",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.259995,
+                        34.512165
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "名松線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "権現前",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.482115,
+                        34.617745
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "名松線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "伊勢鎌倉",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.278375,
+                        34.57402
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "名松線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "伊勢八知",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.2638,
+                        34.5551
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "名松線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "比津",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.270815,
+                        34.5323
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "名松線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "伊勢八太",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.44701,
+                        34.647335
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "名松線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "伊勢竹原",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.309215,
+                        34.600035
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "名松線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "伊勢川口",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.356745,
+                        34.647825
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "名松線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "関ノ宮",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.339605,
+                        34.637695
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "参宮線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "鳥羽",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.84152,
+                        34.48707
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "参宮線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "松下",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.79924,
+                        34.49615
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "参宮線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "多気",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.57311,
+                        34.515905
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "参宮線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "五十鈴ヶ丘",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.73984,
+                        34.49588
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "参宮線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "二見浦",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.777743,
+                        34.503709
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "参宮線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "宮川",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.671887,
+                        34.503078
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "参宮線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "山田上口",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.69426,
+                        34.495808
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "参宮線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "伊勢市",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.70966,
+                        34.49133
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "参宮線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "外城田",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.59666,
+                        34.497665
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "参宮線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "田丸",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.634005,
+                        34.48845
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "紀勢線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "亀山",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.4505,
+                        34.849935
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "紀勢線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "下庄",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.479575,
+                        34.814296
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "紀勢線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "一身田",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.49939,
+                        34.762775
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "紀勢線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "津",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.510726,
+                        34.7344
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "紀勢線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "阿漕",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.50451,
+                        34.703105
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "紀勢線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "高茶屋",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.51262,
+                        34.66728
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "紀勢線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "六軒",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.50759,
+                        34.617625
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "紀勢線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "松阪",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.535796,
+                        34.576859
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "紀勢線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "徳和",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.55355,
+                        34.55403
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "紀勢線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "波田須",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.1381,
+                        33.910115
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "紀勢線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "二木島",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.18083,
+                        33.939405
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "紀勢線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "梅ヶ谷",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.35656,
+                        34.258088
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "紀勢線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "賀田",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.18974,
+                        33.97165
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "紀勢線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "相可",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.545862,
+                        34.503044
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "紀勢線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "佐奈",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.53904,
+                        34.478465
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "紀勢線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "川添",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.473539,
+                        34.419838
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "紀勢線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "三瀬谷",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.40904,
+                        34.39475
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "紀勢線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "滝原",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.411994,
+                        34.360106
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "紀勢線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "阿曽",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.41112,
+                        34.331295
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "紀勢線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "伊勢柏崎",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.395672,
+                        34.299577
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "紀勢線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "大内山",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.35924,
+                        34.278135
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "紀勢線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "紀伊長島",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.339935,
+                        34.20933
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "紀勢線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "三野瀬",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.282385,
+                        34.16769
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "紀勢線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "船津",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.228764,
+                        34.142205
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "紀勢線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "相賀",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.227153,
+                        34.111933
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "紀勢線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "尾鷲",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.190155,
+                        34.07433
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "紀勢線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "大曽根浦",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.223009,
+                        34.061887
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "紀勢線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "九鬼",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.242739,
+                        34.016067
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "紀勢線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "三木里",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.20255,
+                        34.001475
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "紀勢線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "新鹿",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.144231,
+                        33.927864
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "紀勢線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "大泊",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.11807,
+                        33.90224
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "紀勢線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "熊野市",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.098775,
+                        33.889645
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "紀勢線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "有井",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.085595,
+                        33.876185
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "紀勢線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "神志山",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.06235,
+                        33.83977
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "紀勢線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "紀伊市木",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.05543,
+                        33.82801
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "紀勢線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "阿田和",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.04241,
+                        33.80474
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "紀勢線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "紀伊井田",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.023955,
+                        33.75996
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "紀勢線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "鵜殿",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.015515,
+                        33.736725
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "紀勢線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "栃原",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.50934,
+                        34.444555
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "紀勢線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "多気",
+                "layer": "三重県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        136.57311,
+                        34.515905
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "N05_001": "2",
+                "N05_002": "東海道線",
+                "N05_003": "東海旅客鉄道（旧国鉄）",
+                "N05_011": "相見",
+                "layer": "愛知県"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        137.16027,
+                        34.888042
+                    ]
+                ]
+            }
+        }
+    ]
+}

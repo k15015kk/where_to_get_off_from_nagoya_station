@@ -1,0 +1,15 @@
+{
+  "name": "where_to_get_off_from_nagoya_station",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.4.0"
+  },
+  "type": "module"
+}
