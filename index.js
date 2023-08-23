@@ -1,12 +1,14 @@
 import * as fs from 'fs';
 import { parse } from 'csv-parse/sync';
 
+const company_name = process.argv[2];
+
 // 各駅の降車人数ファイルを読み込み
-const count_data = fs.readFileSync('./exit_count_meitetsu.csv');
+const count_data = fs.readFileSync(`./exit_count_${company_name}.csv`);
 const records = parse(count_data);
 
 // 駅の位置情報（geojson）
-const station_geojson = fs.readFileSync('./meitetsu_station.geojson');
+const station_geojson = fs.readFileSync(`./${company_name}_station.geojson`);
 let station = JSON.parse(station_geojson.toString());
 let features = station.features
 
@@ -34,4 +36,4 @@ station.features = filet_count_features;
 
 // 書き出し
 const output_geojson = JSON.stringify(station, null, '  ');
-fs.writeFileSync('meitetsu_station_count.geojson', output_geojson);
+fs.writeFileSync(`${company_name}_station_count.geojson`, output_geojson);
