@@ -24,15 +24,15 @@ let count_features = features.flatMap((feature) => {
 });
 
 // 重複を削除
-const filet_count_features = count_features.filter((x, i, features) => {
+const filter_count_features = count_features.filter((x, i, features) => {
     return features.findIndex(feature => feature.properties.N05_011 === x.properties.N05_011) === i;
 });
 
 // debug
-console.log(filet_count_features.length);
+console.log(filter_count_features.length);
 
 // feturesを更新
-station.features = filet_count_features;
+station.features = filter_count_features;
 
 // 書き出し
 const output_geojson = JSON.stringify(station, null, '  ');
