@@ -14,12 +14,18 @@ let features = station.features
 
 // 駅の位置情報に各駅の乗車人数を返す
 let count_features = features.flatMap((feature) => {
+
+    // 対象となる駅の集計データを取得
     const counts = records.filter( record => record[0] === feature.properties.N05_011);
+
+    // 駅の集計データが無い場合
     if (counts.length === 0) {
         return [];
     }
     
+    // 人数をpropertiesに追加
     feature.properties.count = parseInt(counts[0][3]);
+    
     return feature
 });
 
