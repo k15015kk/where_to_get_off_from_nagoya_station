@@ -14,8 +14,8 @@ let features = station.features
 
 // 駅の位置情報に各駅の乗車人数を返す
 let count_features = features.flatMap((feature) => {
-    const counts = records.filter( record => record[0] == feature.properties.N05_011);
-    if (counts.length == 0) {
+    const counts = records.filter( record => record[0] === feature.properties.N05_011);
+    if (counts.length === 0) {
         return [];
     }
     
